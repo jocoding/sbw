@@ -1,0 +1,50 @@
+html, body {
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 16px;
+    min-height: 100%;
+    margin-bottom: 100px;
+    background: #ddd;
+    width:100%;
+}
+
+header {
+  
+  width:100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+  
+  
+}
+
+
+#aside{
+    float:left;
+    width:10%;
+    height:100%;
+    border-style: solid;
+    border-radius:12px;
+    margin:15px;
+    padding:15px;
+    box-shadow: 10px 10px 5px green;
+}
+#article{
+    float:left;
+    width:30%;
+    height:100%;
+    border-style: solid;
+    border-radius:12px;
+    margin:15px;
+    padding:15px;
+    box-shadow: 10px 10px 5px green;
+}
+#events{
+    float:left;
+    width:10%;
+    height:100%;
+    border-style: solid;
+    border-radius:12px;
+    margin:15px;
+    padding:15px;
+    box-shadow: 10px 10px 5px green;
+}
